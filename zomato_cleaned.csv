@@ -1,0 +1,149 @@
+name,online_order,book_table,rate,votes,approx_cost(for two people),listed_in(type),rate_cleaned,review_text
+Jalsa,Yes,Yes,4.1/5,775,800,Buffet,4.1,Amazing food!
+Spice Elephant,Yes,No,4.1/5,787,800,Buffet,4.1,Fantastic service.
+San Churro Cafe,Yes,No,3.8/5,918,800,Buffet,3.8,It was okay.
+Addhuri Udupi Bhojana,No,No,3.7/5,88,300,Buffet,3.7,Decent experience.
+Grand Village,No,No,3.8/5,166,600,Buffet,3.8,Could be better.
+Timepass Dinner,Yes,No,3.8/5,286,600,Buffet,3.8,It was okay.
+Rosewood International Hotel - Bar & Restaurant,No,No,3.6/5,8,800,Buffet,3.6,Decent experience.
+Onesta,Yes,Yes,4.6/5,2556,600,Cafes,4.6,Loved it!
+Penthouse Cafe,Yes,No,4.0/5,324,700,other,4.0,Loved it!
+Smacznego,Yes,No,4.2/5,504,550,Cafes,4.2,Amazing food!
+Village Café,Yes,No,4.1/5,402,500,Cafes,4.1,Fantastic service.
+Cafe Shuffle,Yes,Yes,4.2/5,150,600,Cafes,4.2,Amazing food!
+The Coffee Shack,Yes,Yes,4.2/5,164,500,Cafes,4.2,Amazing food!
+Caf-Eleven,No,No,4.0/5,424,450,Cafes,4.0,Amazing food!
+San Churro Cafe,Yes,No,3.8/5,918,800,Cafes,3.8,Decent experience.
+Cafe Vivacity,Yes,No,3.8/5,90,650,Cafes,3.8,Decent experience.
+Catch-up-ino,Yes,No,3.9/5,133,800,Cafes,3.9,Could be better.
+Kirthi's Biryani,Yes,No,3.8/5,144,700,Cafes,3.8,Decent experience.
+T3H Cafe,No,No,3.9/5,93,300,Cafes,3.9,It was okay.
+360 Atoms Restaurant And Cafe,Yes,No,3.1/5,13,400,Cafes,3.1,Could be better.
+The Vintage Cafe,Yes,No,3.0/5,62,400,Cafes,3.0,Decent experience.
+Woodee Pizza,Yes,No,3.7/5,180,500,Cafes,3.7,Could be better.
+Cafe Coffee Day,No,No,3.6/5,28,900,Cafes,3.6,Decent experience.
+My Tea House,Yes,No,3.6/5,62,600,Cafes,3.6,Decent experience.
+Hide Out Cafe,No,No,3.7/5,31,300,Cafes,3.7,Could be better.
+CAFE NOVA,No,No,3.2/5,11,600,Cafes,3.2,It was okay.
+Coffee Tindi,Yes,No,3.8/5,75,200,Cafes,3.8,Could be better.
+Sea Green Cafe,No,No,3.3/5,4,500,Cafes,3.3,Could be better.
+Cuppa,No,No,3.3/5,23,550,Cafes,3.3,Could be better.
+Srinathji's Cafe,No,No,3.8/5,148,550,Cafes,3.8,Decent experience.
+Redberrys,Yes,No,4.0/5,219,600,Cafes,4.0,Fantastic service.
+Foodiction,Yes,No,2.8/5,506,500,other,2.8,Not good.
+Sweet Truth,Yes,No,3.9/5,35,500,Dining,3.9,Could be better.
+Ovenstory Pizza,Yes,No,3.9/5,172,750,Dining,3.9,It was okay.
+Faasos,Yes,No,4.2/5,415,500,other,4.2,Amazing food!
+Behrouz Biryani,Yes,No,3.9/5,230,650,Dining,3.9,It was okay.
+Fast And Fresh,Yes,No,2.8/5,91,400,Dining,2.8,Bad service.
+Szechuan Dragon,Yes,No,4.2/5,1647,600,Dining,4.2,Amazing food!
+Empire Restaurant,Yes,No,4.4/5,4884,750,other,4.4,Amazing food!
+Maruthi Davangere Benne Dosa,Yes,No,4.0/5,17,150,Dining,4.0,Amazing food!
+Chaatimes,Yes,No,3.8/5,133,200,Dining,3.8,It was okay.
+Havyaka Mess,No,No,3.9/5,28,300,Dining,3.9,Decent experience.
+McDonald's,Yes,No,3.9/5,286,500,Dining,3.9,Decent experience.
+Domino's Pizza,Yes,No,3.9/5,540,800,Dining,3.9,Decent experience.
+Onesta,Yes,Yes,4.6/5,2556,600,other,4.6,Loved it!
+Hotboxit,No,No,3.8/5,36,400,Dining,3.8,It was okay.
+Kitchen Garden,Yes,No,3.6/5,244,300,Dining,3.6,Decent experience.
+Recipe,Yes,No,4.0/5,804,450,Dining,4.0,Amazing food!
+Beijing Bites,Yes,No,3.7/5,679,850,Dining,3.7,Decent experience.
+Tasty Bytes,Yes,No,3.1/5,245,300,Dining,3.1,It was okay.
+Petoo,No,No,3.7/5,21,450,Dining,3.7,It was okay.
+Shree Cool Point,Yes,No,4.1/5,28,150,Dining,4.1,Fantastic service.
+Corner House Ice Cream,No,No,4.3/5,345,400,Dining,4.3,Loved it!
+Biryanis And More,Yes,No,4.0/5,618,750,Dining,4.0,Loved it!
+Roving Feast,No,No,4.0/5,1047,450,Dining,4.0,Fantastic service.
+FreshMenu,Yes,No,3.9/5,627,450,Dining,3.9,Could be better.
+Banashankari Donne Biriyani,Yes,No,3.8/5,104,300,Dining,3.8,Decent experience.
+Wamama,Yes,Yes,4.2/5,354,800,other,4.2,Loved it!
+Five Star Chicken,No,No,3.6/5,55,200,Dining,3.6,Could be better.
+XO Belgian Waffle,Yes,No,3.7/5,17,400,Dining,3.7,Decent experience.
+Peppy Peppers,No,No,4.2/5,244,800,other,4.2,Loved it!
+Goa 0 Km,Yes,Yes,3.6/5,163,800,Dining,3.6,Could be better.
+Chinese Kitchen,Yes,No,3.8/5,58,150,Dining,3.8,Could be better.
+Jeet Restaurant,No,Yes,4.0/5,808,850,Dining,4.0,Loved it!
+Cake of the Day,No,No,3.7/5,78,150,Dining,3.7,Decent experience.
+Kabab Magic,Yes,No,4.1/5,1720,400,Dining,4.1,Loved it!
+Namma Brahmin's Idli,Yes,No,3.6/5,34,100,Dining,3.6,It was okay.
+Gustoes Beer House,No,No,4.1/5,868,700,Dining,4.1,Amazing food!
+Sugar Rush,No,No,3.8/5,39,300,Dining,3.8,Decent experience.
+Burger King,Yes,No,3.2/5,71,600,Dining,3.2,Decent experience.
+The Good Bowl,Yes,No,3.6/5,6,500,Dining,3.6,Decent experience.
+The Biryani Cafe,No,No,4.1/5,520,300,Dining,4.1,Loved it!
+Spicy Tandoor,No,No,4.1/5,0,150,Dining,4.1,Loved it!
+LSD Cafe,No,No,2.9/5,84,700,other,2.9,Won’t come back.
+Rolls On Wheels,No,No,3.6/5,299,300,Dining,3.6,Decent experience.
+Om Sri Vinayaka Chats,No,No,3.6/5,0,500,Dining,3.6,It was okay.
+Sri Guru Kottureshwara Davangere Benne Dosa,Yes,No,4.1/5,558,150,Dining,4.1,Loved it!
+Devanna Dum Biriyani Centre,Yes,No,3.6/5,28,300,Dining,3.6,It was okay.
+Kolbeh,No,No,3.7/5,22,500,Dining,3.7,Could be better.
+Upahar Sagar,No,No,3.8/5,39,350,Dining,3.8,Could be better.
+Kadalu Sea Food Restaurant,Yes,No,3.8/5,153,500,Dining,3.8,Could be better.
+Frozen Bottle,Yes,No,4.2/5,146,400,Dining,4.2,Amazing food!
+Parimala Sweets,No,No,3.5/5,14,200,Dining,3.5,Could be better.
+Vaishali Deluxe,No,No,3.8/5,42,700,Dining,3.8,Could be better.
+Chill Out,No,No,3.8/5,0,100,Dining,3.8,It was okay.
+The Big O Bakes,No,No,4.0/5,66,300,Dining,4.0,Fantastic service.
+Meghana Foods,Yes,No,4.4/5,4401,600,Dining,4.4,Loved it!
+Krishna Sagar,No,No,3.5/5,31,200,Dining,3.5,It was okay.
+Dessert Rose,No,No,3.5/5,7,500,Dining,3.5,Decent experience.
+Chickpet Donne Biryani House,No,No,3.7/5,21,250,Dining,3.7,It was okay.
+Me And My Cake,No,No,3.7/5,0,500,Dining,3.7,Decent experience.
+Sunsadm,No,No,3.7/5,0,400,Dining,3.7,Decent experience.
+Annapooraneshwari Mess,No,No,3.7/5,0,200,Dining,3.7,It was okay.
+Thanco's Natural Ice Creams,No,No,3.2/5,9,300,Dining,3.2,Could be better.
+Nandhini Deluxe,No,No,2.6/5,283,600,Dining,2.6,Bad service.
+Vi Ra's Bar and Restaurant,No,No,3.3/5,62,800,Dining,3.3,It was okay.
+Kaggis,No,No,3.8/5,64,250,Dining,3.8,Could be better.
+Ayda Persian Kitchen,No,No,3.7/5,39,950,Dining,3.7,Could be better.
+Chatar Patar,No,No,3.7/5,65,300,Dining,3.7,It was okay.
+Polar Bear,Yes,No,3.8/5,71,400,Dining,3.8,It was okay.
+Kidambi's Kitchen,No,No,3.5/5,52,300,Dining,3.5,Decent experience.
+Mane Thindi,No,No,3.7/5,130,200,Dining,3.7,It was okay.
+Kotian Karavali Restaurant,No,No,3.5/5,10,300,Dining,3.5,Could be better.
+Floured-Baked With Love,No,No,3.8 /5,45,400,Dining,3.8,It was okay.
+CAFE NOVA,No,No,3.2/5,11,600,Dining,3.2,It was okay.
+Cakes & Slices,No,No,3.5/5,13,300,Dining,3.5,It was okay.
+Spice 9,No,No,3.4/5,8,300,Dining,3.4,Decent experience.
+Coffee Shopee,No,No,3.4/5,0,250,Dining,3.4,Could be better.
+Naveen Kabab & Biriyani Mane,No,No,3.2/5,9,300,Dining,3.2,Decent experience.
+Katriguppe Donne Biryani,No,No,3.2/5,4,300,Dining,3.2,It was okay.
+Hari Super Sandwich,No,No,3.2/5,0,200,Dining,3.2,Decent experience.
+Atithi Point Ande Ka Funda,No,No,3.1/5,29,150,Dining,3.1,Decent experience.
+Just Bake,No,No,3.4/5,8,400,Dining,3.4,Could be better.
+Dharwad Line Bazaar Mishra Pedha,No,No,3.4/5,0,150,Dining,3.4,Could be better.
+Cake Bite,No,No,3.4/5,0,300,Dining,3.4,Decent experience.
+Aarush's Food Plaza,No,No,3.4/5,0,200,Dining,3.4,Could be better.
+Wood Stove,No,No,3.4/5,0,150,Dining,3.4,Could be better.
+Kulfi & More,No,No,3.4/5,0,150,Dining,3.4,It was okay.
+Kannadigas Karavali,No,No,3.4/5,0,250,Dining,3.4,It was okay.
+K27 - The Pub,No,No,3.1/5,30,900,Dining,3.1,Could be better.
+Bengaluru Coffee House,Yes,No,4.1/5,201,300,Dining,4.1,Fantastic service.
+New Mangalore Lunch Home,No,No,3.3/5,7,200,Dining,3.3,It was okay.
+Coffee Bytes,No,No,3.1/5,6,100,Dining,3.1,It was okay.
+Parjanya Chat Zone,No,No,3.3/5,17,200,Dining,3.3,Decent experience.
+Kwality Wall's Swirl's Happiness Station,No,No,2.9/5,25,200,Dining,2.9,Won’t come back.
+Soms Kitchen & Bakes,No,No,2.9/5,0,400,Dining,2.9,Won’t come back.
+Banashankari Nati Style,No,No,2.9/5,0,350,Dining,2.9,Bad service.
+Ruchi Maayaka,No,No,3.3/5,8,100,Dining,3.3,Decent experience.
+Mohitesh Hut Roll,No,No,3.3/5,0,150,Dining,3.3,Could be better.
+Sri Basaveshwar Jolada Rotti Oota,No,No,3.4/5,0,150,Dining,3.4,It was okay.
+Roll Magic Fast Food,No,No,3.4/5,0,200,Dining,3.4,Decent experience.
+Foodlieious Multi Cuisine,No,No,3.4/5,0,100,Dining,3.4,It was okay.
+Thanishka Nati And Karavali Style,No,No,3.1/5,0,400,Dining,3.1,It was okay.
+Swathi Cool Point,No,No,4.1/5,0,200,Dining,4.1,Amazing food!
+Kaumudis Juoice,No,No,3.3/5,0,150,Dining,3.3,It was okay.
+Amma - Manae,No,No,3.1/5,0,400,Dining,3.1,Could be better.
+Sri Sai Tiffannies,No,No,3.3/5,0,150,Dining,3.3,Decent experience.
+Hotel Andhra Speices,No,No,2.9/5,0,250,Dining,2.9,Won’t come back.
+Sri Murari Family Restaurant,No,No,2.9/5,0,250,Dining,2.9,Won’t come back.
+Aramane Donne Biriyani,No,No,2.9/5,0,150,Dining,2.9,Bad service.
+Darkolates,No,No,3.3/5,0,200,Dining,3.3,Decent experience.
+Swaada Healthy Kitchen,No,No,3.3/5,0,350,Dining,3.3,Decent experience.
+Gawdaru Mane Beriyani,No,No,3.3/5,0,300,Dining,3.3,It was okay.
+Melting Melodies,No,No,3.3/5,0,100,Dining,3.3,Decent experience.
+New Indraprasta,No,No,3.3/5,0,150,Dining,3.3,Decent experience.
+Anna Kuteera,Yes,No,4.0/5,771,450,Dining,4.0,Amazing food!
+Darbar,No,No,3.0/5,98,800,Dining,3.0,It was okay.
+Vijayalakshmi,Yes,No,3.9/5,47,200,Dining,3.9,It was okay.

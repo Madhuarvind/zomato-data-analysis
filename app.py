@@ -1,73 +1,50 @@
 import pandas as pd
-import numpy as np
 
-# Use raw string (prefix `r`) and set encoding
-df = pd.read_csv(r"E:\Retail Sales Analysis\dataset\Superstore.csv", encoding='latin1')
+# Load data
+file_path = 'E:\zomoto-Data-Analysis\data\Zomato-data-.csv'  # adjust if needed
+df = pd.read_csv(file_path)
 
-print(df.head())
+# Preview data
+print("Shape of dataset:", df.shape)
+print("Columns:")
+print(df.columns.tolist())
+df.head()
+
+# Data types
 print(df.info())
-print(df.describe())
 
-print("The dataset contail null values",df.isnull())
+# Check missing values
+print(df.isnull().sum())
 
-# Convert date columns to datetime
-df['Order Date'] = pd.to_datetime(df['Order Date'])
-df['Ship Date'] = pd.to_datetime(df['Ship Date'])
+def clean_rate(x):
+    if isinstance(x, str):
+        x = x.strip()
+        if x in ['NEW', '-', '']:
+            return None
+        else:
+            return float(x.split('/')[0])
+    return None
 
-# Drop unnecessary columns
-df.drop(['Row ID'], axis=1, inplace=True)  # Optional: Drop Postal Code if not needed
+df['rate_cleaned'] = df['rate'].apply(clean_rate)
 
-# Check for duplicates
-print(f"Duplicates: {df.duplicated().sum()} rows")
+# Check cleaned values
+print(df[['rate', 'rate_cleaned']].head())
 
-# Remove duplicates
-df = df.drop_duplicates()
+# Summary of cleaned ratings
+print(df['rate_cleaned'].describe())
 
 
-# Extract Year and Month from Order Date
-df['Order Year'] = df['Order Date'].dt.year
-df['Order Month'] = df['Order Date'].dt.month
+import random
 
-# Create Profit Margin column
-df['Profit Margin'] = round(df['Profit'] / df['Sales'], 2)
-
-# Optional: Sales Category (Low, Medium, High)
-def sales_category(sales):
-    if sales < 100:
-        return 'Low'
-    elif sales < 500:
-        return 'Medium'
+def generate_review(rating):
+    if rating >= 4.0:
+        return random.choice(['Amazing food!', 'Loved it!', 'Fantastic service.'])
+    elif rating >= 3.0:
+        return random.choice(['It was okay.', 'Decent experience.', 'Could be better.'])
     else:
-        return 'High'
+        return random.choice(['Not good.', 'Bad service.', 'Won’t come back.'])
 
-df['Sales Category'] = df['Sales'].apply(sales_category)
-
-# Preview after changes
-print(df[['Sales', 'Profit', 'Profit Margin', 'Order Year', 'Order Month', 'Sales Category']].head())
-
-# Save cleaned data
-df.to_csv('cleaned_superstore.csv', index=False)
+df['review_text'] = df['rate_cleaned'].apply(generate_review)
 
 
-# Required installations (run in terminal if not installed)
-# pip install sqlalchemy pymysql pandas
-
-from sqlalchemy import create_engine
-import pandas as pd
-
-# Load your cleaned CSV file
-df = pd.read_csv("cleaned_superstore.csv", encoding='latin1')
-
-# Replace with your actual MySQL credentials
-username = "root"        # ✅ your MySQL username
-password = "MYSQL"       # ✅ your MySQL password
-host = "localhost"       # ✅ or 127.0.0.1
-database = "superstore"  # ✅ must be created beforehand
-
-# SQLAlchemy connection string
-engine = create_engine(f"mysql+pymysql://{username}:{password}@{host}/{database}")
-
-# Upload the DataFrame to MySQL
-df.to_sql(name='sales_data', con=engine, index=False, if_exists='replace')
-
-print("✅ Data uploaded to MySQL table: sales_data")
+df.to_csv('zomato_cleaned.csv', index=False)
