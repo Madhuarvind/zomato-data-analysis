@@ -1,6 +1,8 @@
+streamlit
 pandas
-numpy
-matplotlib
 seaborn
+matplotlib
+scikit-learn
 plotly
-jupyter
+altair
+st-aggrid
