@@ -5,6 +5,16 @@ The app uses clustering, association rules, sentiment analysis (optional), and a
 
 ---
 
+
+## 📸 Screenshots
+
+### 🔍 Dashboard Overview  
+![Dashboard Overview](screenshots/Screenshot-2025-06-28-141132.png)
+
+### 📊 Visualizations and Clusters  
+![Visualizations](screenshots/Screenshot-2025-06-28-141154.png)
+
+---
 ## 🚀 Features  
 
 ✅ **Filters:**  
