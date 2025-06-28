@@ -9,10 +9,10 @@ The app uses clustering, association rules, sentiment analysis (optional), and a
 ## 📸 Screenshots
 
 ### 🔍 Dashboard Overview  
-![Dashboard Overview](screenshots/Screenshot-1.png)
+![Dashboard Overview](data/Screenshot%202025-06-28%20141132.png)
 
 ### 📊 Visualizations and Clusters  
-![Visualizations](screenshots/Screenshot-2.png)
+![Visualizations](data/Screenshot%202025-06-28%20141154.png)
 
 ---
 ## 🚀 Features  
